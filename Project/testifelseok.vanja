@@ -1,0 +1,19 @@
+//if else
+//RETURN 7
+
+
+int  fja(int i) {
+
+	int res;
+	
+	if (i < 5)
+	   res = i + 5;
+	else
+	   res = i + 1;
+	return res;
+}
+
+int main() {
+
+	return fja(6);
+}

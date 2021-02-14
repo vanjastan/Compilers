@@ -1,0 +1,10 @@
+//OPIS: deljenje
+//RETURN: 12
+
+int main() {
+    int a, b, c;
+    a = 48;
+    b = 4;
+    c = a / b;
+    return c;
+}

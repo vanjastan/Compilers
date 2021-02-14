@@ -1,0 +1,17 @@
+//OPIS: para iskaz
+//RETURN: 3
+
+int main() {
+    int i;
+    int a;
+    int b;
+
+    a = 0;
+    b = 0;
+
+    para (i = 5 abajo 2 paso 2) {
+	a = i;
+    }
+    
+    return a;
+}
